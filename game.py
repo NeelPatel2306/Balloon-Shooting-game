@@ -9,7 +9,7 @@ width = 700
 height = 600
 
 display = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Baloon Shooter")
+pygame.display.set_caption("Balloon Shooter")
 clock = pygame.time.Clock()
 
 margin = 100
